@@ -6,7 +6,7 @@ import simplemap
 import urllib.request
 import math
 import codeskulptor
-import comp140_module7_graphs as graphs
+import graphs
 
 # Constants
 WIDTH = 800
