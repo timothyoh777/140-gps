@@ -1,4 +1,4 @@
-import comp140_module7 as maps
+import graphgui as maps
 
 
 class Queue:
